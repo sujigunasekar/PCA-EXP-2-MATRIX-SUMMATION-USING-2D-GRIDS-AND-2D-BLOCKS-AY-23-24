@@ -1,10 +1,10 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 
-<h3>ENTER YOUR NAME: PREMA LATHA S</h3>
-<h3>ENTER YOUR REGISTER NO:212222230112</h3>
+<h3>ENTER YOUR NAME: Suji G</h3>
+<h3>ENTER YOUR REGISTER NO:212222230152</h3>
 <h3>EX. NO:2</h3>
-<h3>DATE:16-10-24</h3>
+<h3>DATE:</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
 ii. Matrix summation with a 2D grid and 2D blocks. Adapt it to integer matrix addition. Find the best execution configuration. </h3>
